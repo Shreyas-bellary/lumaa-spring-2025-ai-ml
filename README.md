@@ -96,6 +96,12 @@ it might yield the following recommendations:
 
 These results demonstrate how the system ranks movies based on their textual similarity to the query.
 
+## Demo Video
+
+A short demo video is available in the repository. Please refer to the [demo.md](demo.md) file for the video link and instructions, where a brief screen recording shows:
+- How to run the recommendation code.
+- A sample query and the corresponding output.
+
 ## Salary Expectation
 
 **Salary Expectation per Month:** 1600-1800$ per month
