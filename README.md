@@ -49,7 +49,7 @@ For details on loading the full dataset, please refer to the notebook’s instru
 
 ### Prerequisites
 
-- **Python Version:** Python 3.x  
+- **Python Version:** Python 3.x or higher  
 - **Libraries:**  
   - pandas  
   - numpy  
